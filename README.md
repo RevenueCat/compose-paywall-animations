@@ -38,6 +38,8 @@ Celebratory New Year theme with animated fireworks, confetti bursts, and champag
 
 <img src="previews/1.gif" />
 
+You can check out [Build Animated Christmas Paywall in Compose Codelab](https://revenuecat.github.io/codelabs/christmas-paywall.html) for the step by step guides.
+
 ### New Year's Eve Fireworks
 Spectacular fireworks display with colorful explosions, particle trails, and countdown celebration vibes.
 
