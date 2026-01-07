@@ -105,6 +105,8 @@ Divine spiritual theme with heavenly light rays, floating doves, shiny cross, an
 
 <img src="previews/14.gif" />
 
+You can check out [Build Divine Bible Paywall in Compose Codelab](https://revenuecat.github.io/codelabs/bible-paywall.html) for the step by step guides.
+
 
 <a href="https://www.revenuecat.com/docs/getting-started/quickstart?utm_medium=organic&utm_source=github&utm_campaign=advocate">
 <img src="https://github.com/user-attachments/assets/28d587ad-787a-4f67-9e33-2768a631c6e5" align="right" width="12%"/>
