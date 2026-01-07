@@ -33,12 +33,12 @@ Festive holiday paywall with animated snowflakes, glowing Christmas tree, and tw
 
 <img src="previews/0.gif" />
 
+You can check out [Build Animated Christmas Paywall in Compose Codelab](https://revenuecat.github.io/codelabs/christmas-paywall.html) for the step by step guides.
+
 ### New Year 2026
 Celebratory New Year theme with animated fireworks, confetti bursts, and champagne sparkles.
 
 <img src="previews/1.gif" />
-
-You can check out [Build Animated Christmas Paywall in Compose Codelab](https://revenuecat.github.io/codelabs/christmas-paywall.html) for the step by step guides.
 
 ### New Year's Eve Fireworks
 Spectacular fireworks display with colorful explosions, particle trails, and countdown celebration vibes.
