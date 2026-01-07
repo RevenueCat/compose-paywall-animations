@@ -33,6 +33,8 @@ Festive holiday paywall with animated snowflakes, glowing Christmas tree, and tw
 
 <img src="previews/0.gif" />
 
+You can check out [Build Animated Christmas Paywall in Compose Codelab](https://revenuecat.github.io/codelabs/christmas-paywall.html) for the step by step guides.
+
 ### New Year 2026
 Celebratory New Year theme with animated fireworks, confetti bursts, and champagne sparkles.
 
@@ -142,6 +144,11 @@ Cat Paywalls KMP is built using the [RevenueCat SDK for Kotlin Multiplatform](ht
 ## 🤝 Contribution
 
 Anyone can contribute and improve this project following the [Contributing Guideline](CONTRIBUTING.md).
+
+## Find this repository useful? 😻
+
+Support it by joining __[stargazers](https://github.com/revenuecat/compose-paywall-animations/stargazers)__ for this repository. :star: <br>
+Also, __[follow the main contributor](https://github.com/skydoves)__ on GitHub for the next creations! 🤩
 
 # License
 ```xml
