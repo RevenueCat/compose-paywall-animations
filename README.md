@@ -70,6 +70,8 @@ Dynamic paywall that transitions between day and night with animated sun, moon, 
 
 <img src="previews/7.gif" />
 
+If you want to dive into the step-by-step guides for this, check out the [Building animated custom Paywalls in Jetpack Compose](https://www.revenuecat.com/blog/engineering/custom-paywalls-compose/) blog post.
+
 ### Underwater
 Ocean depths theme with floating bubbles, swimming fish, and gentle light rays filtering through water.
 
